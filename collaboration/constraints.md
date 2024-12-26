@@ -4,24 +4,21 @@
 
 Some boundaries around our project.
 
-## External
+## External  
 
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
+- Deadline: The project must be finished by **January 10th**.  
+- Connectivity issues: **Limited internet access** affects some teammates,
+ especially during peak hours.  
+- Holiday availability: Team members celebrating **Christmas** may have fewer
+ hours to contribute this week.  
 
-## Internal: Involuntary
+## Internal: Involuntary  
 
-<!--
-  constraints that come from within your team, and you have no control over:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+- **Students** are managing their time between this project
+ and their **final exams**.  
+- Some team members are new to **GitHub workflows** and may need extra guidance.
+- Limited fluency in English among some members might make it harder to express
+ complex ideas or provide detailed feedback during discussions.
 
 ## Internal: Voluntary
 
