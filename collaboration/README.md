@@ -1,4 +1,6 @@
-# Group Norms Summary
+# Collaboration
+
+## Group Norms Summary
 
 Our team thrives on openness, respect, and the shared belief that collaboration
 makes us stronger.  
