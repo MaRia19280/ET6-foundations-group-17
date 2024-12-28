@@ -21,6 +21,10 @@ Some boundaries around our project.
  complex ideas or provide detailed feedback during discussions.
 
 ## Internal: Voluntary
+- Quality: Ensuring that problems and solutions meet the review checklist may require more time and effort.
+- Participation in Discussions: Some team members may not actively engage in discussions with their ideas, which could lead to delays in taking decisions.
+- Knowledge Sharing: Team members with more experience in Python or GitHub workflows may need to voluntarily spend extra time mentoring or assisting less experienced members, which could impact their own productivity and the overall pace of the project.
+
 
 <!--
   constraints that your team decided on to help scope the project. they may include:
